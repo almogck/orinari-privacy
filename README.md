@@ -4,22 +4,6 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Orinari Privacy Policy</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      max-width: 900px;
-      margin: 40px auto;
-      padding: 0 16px;
-      line-height: 1.6;
-      color: #222;
-    }
-    h1, h2, h3 {
-      color: #111;
-    }
-    .muted {
-      color: #666;
-    }
-  </style>
 </head>
 <body>
   <h1>Privacy Policy for Orinari</h1>
