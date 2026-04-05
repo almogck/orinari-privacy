@@ -108,9 +108,9 @@
   <h2>10. Account deletion</h2>
   <p>
     To delete your account:
-      1. Open the Orinari app
-      2. Go to Settings
-      3. Tap "Delete Account"
+     <li>1. Open the Orinari app</li>
+     <li>2. Go to Settings</li>
+     <li>3. Tap "Delete Account"</li>
  
      Or contact:
      almog.ck@gmail.com
