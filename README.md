@@ -105,7 +105,17 @@
     We may update this Privacy Policy from time to time. Changes will be reflected on this page with an updated date.
   </p>
 
-  <h2>10. Contact</h2>
+  <h2>10. Account deletion</h2>
+  <p>
+    To delete your account:
+      1. Open the Orinari app
+      2. Go to Settings
+      3. Tap "Delete Account"
+ 
+     Or contact:
+     almog.ck@gmail.com
+  </p>  
+  <h2>11. Contact</h2>
   <p>If you have questions about this Privacy Policy, contact:</p>
   <p><strong>Email:</strong> almog.ck@gmail.com</p>
 </body>
