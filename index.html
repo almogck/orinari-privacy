@@ -5,75 +5,54 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Orinari – Legal & App Information</title>
   <meta name="description" content="Orinari legal information, privacy policy, and terms of service." />
-  <style>
-    body {
-      margin: 0;
-      font-family: Arial, sans-serif;
-      background: #f7f7fb;
-      color: #1f2937;
-      line-height: 1.6;
-    }
-    .container {
-      max-width: 860px;
-      margin: 0 auto;
-      padding: 40px 20px;
-    }
-    .card {
-      background: white;
-      border-radius: 14px;
-      padding: 32px;
-      box-shadow: 0 8px 30px rgba(0,0,0,0.06);
-    }
-    h1, h2 {
-      color: #111827;
-    }
-    a {
-      color: #2563eb;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-    .links a {
-      display: inline-block;
-      margin-right: 18px;
-      margin-top: 10px;
-    }
-    .muted {
-      color: #6b7280;
-      font-size: 14px;
-      margin-top: 24px;
-    }
-  </style>
+  <link rel="stylesheet" href="./style.css" />
 </head>
 <body>
-  <div class="container">
-    <div class="card">
-      <h1>Orinari</h1>
-      <p>
+  <div class="page-shell">
+    <section class="hero">
+      <div class="badge">Orinari</div>
+      <h1>Legal & App Information</h1>
+      <p class="hero-text">
         Orinari is an application designed to help users manage and access its core features through a secure personal account.
       </p>
-
-      <h2>Google Sign-In</h2>
-      <p>
-        Orinari uses Google Sign-In to let users securely create an account and sign in to the app.
-        This authentication is used only to identify the user and provide access to the app experience.
+      <p class="hero-text">
+        Orinari uses Google Sign-In so users can securely create an account and sign in to the app. This authentication is used only to identify the user and provide access to the app experience.
+      </p>
+      <p class="hero-text">
+        This website provides Orinari’s public legal and policy pages required for authentication, compliance, and app publishing.
       </p>
 
-      <h2>Public Legal Information</h2>
-      <p>
-        This website provides Orinari’s public legal and policy pages required for authentication and compliance.
-      </p>
+      <div class="hero-actions">
+        <a class="button primary" href="./privacy.html">Privacy Policy</a>
+        <a class="button secondary" href="./terms.html">Terms of Service</a>
+      </div>
+    </section>
 
-      <div class="links">
+    <section class="content-grid">
+      <article class="card">
+        <h2>Privacy</h2>
+        <p>
+          Learn what information Orinari may collect, how it is used, and how subscription and account data are handled.
+        </p>
+      </article>
+
+      <article class="card">
+        <h2>Terms</h2>
+        <p>
+          Review the rules, subscription terms, acceptable use expectations, and general service conditions for using Orinari.
+        </p>
+      </article>
+    </section>
+
+    <footer class="footer">
+      <div>
+        If you have questions regarding privacy or terms, please use the support contact associated with Orinari.
+      </div>
+      <nav class="footer-nav">
         <a href="./privacy.html">Privacy Policy</a>
         <a href="./terms.html">Terms of Service</a>
-      </div>
-
-      <p class="muted">
-        If you have questions regarding privacy or terms, please contact the app owner through the contact details provided in the app store listing or app support channels.
-      </p>
-    </div>
+      </nav>
+    </footer>
   </div>
 </body>
 </html>
