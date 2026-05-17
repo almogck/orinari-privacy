@@ -113,7 +113,7 @@
      <li>3. Tap "Delete Account"</li>
  
      Or contact:
-     almog.ck@gmail.com
+     support@orinari.app
   </p>  
   <h2>11. Contact</h2>
   <p>If you have questions about this Privacy Policy, contact:</p>
